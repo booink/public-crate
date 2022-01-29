@@ -1,0 +1,4 @@
+[tasks.test-all]
+script = ['''
+cargo test --all-features
+''']

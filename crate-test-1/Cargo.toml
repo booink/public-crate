@@ -1,0 +1,10 @@
+[package]
+name = "crate-test-1"
+version = "0.1.0"
+authors = ["booink <booink.work@gmail.com>"]
+readme = "../README.md"
+repository = "https://github.com/booink/public-crate"
+description = """
+Crate test 1
+"""
+edition = "2018"
